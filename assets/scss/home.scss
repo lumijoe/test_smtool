@@ -1,0 +1,13 @@
+@charset "UTF-8";
+// @use "./common/reset";
+@use "./layout/header";
+// @use "./layout/section";
+// @use "./common/layout";
+// @use "./common/typo";
+// @use "./common/icon";
+// @use "./responsive/pc";
+ 
+body {
+    overflow: hidden;
+    margin: 0 auto;
+}
